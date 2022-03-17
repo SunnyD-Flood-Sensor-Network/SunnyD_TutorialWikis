@@ -1,4 +1,4 @@
-![Alt text](https://tarheels.live/sunnydayflood/wp-content/uploads/sites/1319/2022/02/SDFP_on-dark-2_v3.png)
+![Alt text](/images/sdfp-sun-logo-01.png)
 
 # Tutorials
 
