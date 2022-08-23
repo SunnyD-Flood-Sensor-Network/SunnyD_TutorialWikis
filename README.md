@@ -4,7 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/437971639.svg)](https://zenodo.org/badge/latestdoi/437971639)
 
-The tutorials [**in this repo's wiki**](https://github.com/sunny-day-flooding-project/tutorials/wiki) provide step-by-step instructions to build and deploy [Sunny Day Flooding Sensors](https://tarheels.live/sunnydayflood/) to measure coastal flooding. Open an [issue](https://github.com/SunnyD-Flood-Sensor-Network/tutorials/issues) to ask question or provide documentation suggestions!
+The tutorials [**in this repo's wiki**](https://github.com/sunny-day-flooding-project/tutorials/wiki) provide step-by-step instructions to build and deploy [Sunny Day Flooding Sensors](https://tarheels.live/sunnydayflood/) to measure coastal flooding. The source files for the wiki are also available in the `wiki` folder within the main repo. Open an [issue](https://github.com/SunnyD-Flood-Sensor-Network/tutorials/issues) to ask question or provide documentation suggestions!
 
 ## Overview
 The sensor framework – which we coin SuDS: the <ins>**Su**</ins>nny <ins>**D**</ins>ay flood <ins>**S**</ins>ensors ☀️🌊 – consists of a pressure logger deployed within a storm drain and a communications gateway equipped with a camera. 
